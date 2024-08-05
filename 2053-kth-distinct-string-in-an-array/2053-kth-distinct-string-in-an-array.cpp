@@ -1,6 +1,8 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         unordered_map<string,int>mp;
         for(int i=0;i<arr.size();i++){
             string s=arr[i];
