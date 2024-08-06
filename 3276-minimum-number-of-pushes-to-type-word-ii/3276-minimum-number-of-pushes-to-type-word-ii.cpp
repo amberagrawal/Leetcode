@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
        map<char,int>mp;
        for(int i=0;i<word.size();i++){
         mp[word[i]]++;
