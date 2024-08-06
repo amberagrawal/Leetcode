@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         ListNode* prev=list1;
         ListNode* forw=list1;
         int count=0;
