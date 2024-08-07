@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0002-add-two-numbers) |
 | [1765-merge-in-between-linked-lists](https://github.com/amberagrawal/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amberagrawal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
