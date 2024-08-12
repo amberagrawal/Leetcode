@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/amberagrawal/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/amberagrawal/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
