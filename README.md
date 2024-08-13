@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amberagrawal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/amberagrawal/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/amberagrawal/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/amberagrawal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/amberagrawal/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/amberagrawal/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/amberagrawal/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
