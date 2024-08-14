@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amberagrawal/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amberagrawal/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amberagrawal/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/amberagrawal/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/amberagrawal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
