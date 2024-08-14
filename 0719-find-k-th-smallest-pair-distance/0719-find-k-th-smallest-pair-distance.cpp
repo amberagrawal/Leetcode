@@ -1,26 +1,16 @@
 class Solution {
 public:
-    int smallestDistancePair(std::vector<int>& nums, int k) {
-        sort(nums.begin(), nums.end());
-        int left = 0, right = nums.back() - nums.front();
-        
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            int count = 0;
-            int j = 0;
-            for (int i = 0; i < nums.size(); ++i) {
-                while (j < nums.size() && nums[j] - nums[i] <= mid) {
-                    j++;
-                }
-                count += j - i - 1;
-            }
-            if (count >= k) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+    int smallestDistancePair(vector<int>& nums, int k) {
+        int n = nums.size(), N = 1000000;
+        vector<int> cnt(N, 0);
+        for (int i = 0; i < n; i++) {
+            for (int j = i+1; j < n; j++) 
+                cnt[abs(nums[i]-nums[j])]++;
         }
-        
-        return left;
+        for (int i = 0; i < N; i++) {
+            if (cnt[i] >= k) return i;
+            k -= cnt[i];
+        }
+        return 0;
     }
 };
