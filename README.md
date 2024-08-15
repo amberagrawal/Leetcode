@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/amberagrawal/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/amberagrawal/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amberagrawal/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2714-left-and-right-sum-differences](https://github.com/amberagrawal/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/amberagrawal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/amberagrawal/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/amberagrawal/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2714-left-and-right-sum-differences](https://github.com/amberagrawal/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
