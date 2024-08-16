@@ -1,6 +1,8 @@
 class Solution {
 public:
     int getLastMoment(int n, vector<int>& left, vector<int>& right) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
        sort(left.rbegin(),left.rend());
        sort(right.begin(),right.end()); 
        int time=0;
