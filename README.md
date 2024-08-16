@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/amberagrawal/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0624-maximum-distance-in-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
+| [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 ## Two Pointers
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/amberagrawal/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 ## Probability and Statistics
 |  |
