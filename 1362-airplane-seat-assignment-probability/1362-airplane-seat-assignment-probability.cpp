@@ -7,7 +7,8 @@ public:
         return 1;
       } 
       else{
-        return (double)1/2;
+        double a=(double)1/2;
+        return a;
       }
     }
 };
