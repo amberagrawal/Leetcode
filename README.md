@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amberagrawal/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/amberagrawal/Leetcode/tree/master/2383-add-two-integers) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amberagrawal/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
