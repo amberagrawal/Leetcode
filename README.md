@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/amberagrawal/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amberagrawal/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2238-a-number-after-a-double-reversal](https://github.com/amberagrawal/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
