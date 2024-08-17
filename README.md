@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/amberagrawal/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1806-count-of-matches-in-tournament](https://github.com/amberagrawal/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amberagrawal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/amberagrawal/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amberagrawal/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amberagrawal/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/amberagrawal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
