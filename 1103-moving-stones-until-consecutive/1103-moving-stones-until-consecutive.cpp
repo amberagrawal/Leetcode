@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> numMovesStones(int a, int b, int c) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<int>v1={a,b,c};
         sort(v1.begin(),v1.end());
         int x=abs(v1[0]-v1[1])-1;
