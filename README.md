@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amberagrawal/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2383-add-two-integers](https://github.com/amberagrawal/Leetcode/tree/master/2383-add-two-integers) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/amberagrawal/Leetcode/tree/master/2556-convert-the-temperature) |
