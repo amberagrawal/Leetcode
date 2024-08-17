@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/amberagrawal/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amberagrawal/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/amberagrawal/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/amberagrawal/Leetcode/tree/master/2705-minimum-impossible-or) |
+| [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Tree
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
