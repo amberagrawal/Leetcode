@@ -1,6 +1,8 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
+     ios::sync_with_stdio(false);
+     cin.tie(nullptr);
       vector<int>v(1,1);
       int i=0;
       int j=0;
