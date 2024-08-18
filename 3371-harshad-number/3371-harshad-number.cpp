@@ -1,6 +1,8 @@
 class Solution {
 public:
     int sumOfTheDigitsOfHarshadNumber(int x) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         int a=x;
         int b=0;
         while(a>0){
