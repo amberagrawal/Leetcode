@@ -10,8 +10,6 @@ public:
         return a;
     }
     int countKConstraintSubstrings(string s, int k) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
         int count=0;
         for(int i=1;i<=s.length();i++){
             for(int j=0;j<=s.length()-i;j++){
