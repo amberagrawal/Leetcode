@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amberagrawal/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/amberagrawal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/amberagrawal/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/amberagrawal/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/amberagrawal/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amberagrawal/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
@@ -310,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
@@ -340,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
