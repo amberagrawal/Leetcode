@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amberagrawal/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amberagrawal/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/amberagrawal/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amberagrawal/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/amberagrawal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/amberagrawal/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/amberagrawal/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/amberagrawal/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
