@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
        vector<int>ans;
        for(int i=0;i<nums.size();i++){
         int count=0;
