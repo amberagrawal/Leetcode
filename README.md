@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amberagrawal/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/amberagrawal/Leetcode/tree/master/0319-bulb-switcher) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amberagrawal/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0728-self-dividing-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
