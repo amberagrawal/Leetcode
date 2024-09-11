@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amberagrawal/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/amberagrawal/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amberagrawal/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/amberagrawal/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
