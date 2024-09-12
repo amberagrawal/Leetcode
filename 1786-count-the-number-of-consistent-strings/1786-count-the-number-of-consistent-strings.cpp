@@ -1,6 +1,8 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         int count=0;
         for(int i=0;i<words.size();i++){
           for(int a=0;a<words[i].size();a++){
