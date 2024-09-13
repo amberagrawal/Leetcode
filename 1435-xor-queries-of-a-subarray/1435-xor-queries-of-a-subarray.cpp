@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<int>ans;
         for(int i=0;i<queries.size();i++){
             int left=queries[i][0];
