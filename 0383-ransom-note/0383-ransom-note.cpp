@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool canConstruct(string s, string t) {
+      ios::sync_with_stdio(false);
+      cin.tie(nullptr);  
       vector<int>v1(26,0);
       vector<int>v2(26,0);
       for(int i=0;i<t.length();i++){
