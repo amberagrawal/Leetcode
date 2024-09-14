@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amberagrawal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amberagrawal/Leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/amberagrawal/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amberagrawal/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/amberagrawal/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
