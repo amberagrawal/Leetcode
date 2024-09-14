@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         map<string,int>mp;
         for(int i=0;i<words.size();i++){
             mp[words[i]]++;
