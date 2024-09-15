@@ -17,6 +17,8 @@ public:
         return true;
     }
     int findTheLongestSubstring(string s) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if(s.length()==1){
             return 0;
         }
