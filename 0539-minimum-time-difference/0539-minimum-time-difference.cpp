@@ -1,8 +1,6 @@
 class Solution {
 public:
     int findMinDifference(vector<string>& time) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
         vector<int>t;
         for(int i=0;i<time.size();i++){
             string s=time[i];
