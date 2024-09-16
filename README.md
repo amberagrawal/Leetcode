@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/amberagrawal/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/amberagrawal/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
