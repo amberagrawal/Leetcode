@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/amberagrawal/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/amberagrawal/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/amberagrawal/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amberagrawal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/amberagrawal/Leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
