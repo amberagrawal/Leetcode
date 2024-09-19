@@ -12,7 +12,7 @@ public:
         }
     }
     int count=0;
-    for(int i=2;i<n;i++){
+    for(int i=0;i<isPrime.size()-1;i++){
         if(isPrime[i]==true){
             count++;
         }
