@@ -1,23 +1,24 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        set<char>s1;
-        int right=0;
-        int left=0;
-        int maxi=0;
-        while(right<s.length()){
-            if(s1.find(s[right])==s1.end()){
-                s1.insert(s[right]);
-                right++;
-            maxi=max(maxi,right-left);
-            }
-            else{
-                s1.erase(s[left]);
-                left++;
-            }
+       string s1="";
+       int maxi=0;
+       int i=0;
+       while(i<s.length()){
+        size_t pos=s1.find(s[i]);
+        if(pos!=string::npos){
+         s1 = s1.substr(pos + 1);
+
+         s1=s1+s[i];
         }
-        return maxi;
+        else{
+            s1=s1+s[i];
+        }
+        if(maxi<s1.length()){
+           maxi=s1.length();
+        }
+        i++;
+       }
+       return maxi;
     }
 };
