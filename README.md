@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/amberagrawal/Leetcode/tree/master/0319-bulb-switcher) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amberagrawal/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amberagrawal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amberagrawal/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
+| [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/amberagrawal/Leetcode/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
