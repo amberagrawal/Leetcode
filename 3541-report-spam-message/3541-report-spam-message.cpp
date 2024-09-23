@@ -1,10 +1,13 @@
 class Solution {
 public:
     bool reportSpam(vector<string>& message, vector<string>& banned) {
-       set<string>s(banned.begin(),banned.end());
+       map<string,int>mp;
+       for(int i=0;i<banned.size();i++){
+        mp[banned[i]]++;
+       }
        int count=0;
        for(auto i:message){
-        if(s.find(i)!=s.end()){
+        if(mp.find(i)!=mp.end()){
             count++;
         }
        }
