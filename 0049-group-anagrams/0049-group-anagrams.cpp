@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         map<string,vector<string>>mp;
         for(int i=0;i<strs.size();i++){
             string s=strs[i];
