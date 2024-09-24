@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/amberagrawal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/amberagrawal/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/amberagrawal/Leetcode/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/amberagrawal/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/amberagrawal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/amberagrawal/Leetcode/tree/master/0621-task-scheduler) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amberagrawal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amberagrawal/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/amberagrawal/Leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
