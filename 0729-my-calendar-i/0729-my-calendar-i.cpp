@@ -3,15 +3,7 @@ public:
     vector<pair<int,int>>c;
     bool book(int start, int end) {
         for(int i=0;i<c.size();i++){
-            int a=c[i].first;
-            int b=c[i].second;
-            // if(start<b&&start>=a){
-            //     return false;
-            // }
-            // else if(start<a&&end>a&&end<=b){
-            //     return false;
-            // }
-             if(start<b&&a<end){
+             if(start<c[i].second&&c[i].first<end){
                 return false;
             }
         }
