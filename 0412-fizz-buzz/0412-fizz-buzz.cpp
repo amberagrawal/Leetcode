@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<string>v;
         for(int i=1;i<=n;i++){
             if(i%3==0&&i%5==0){
