@@ -1,6 +1,8 @@
 class Solution {
 public:
     string addStrings(string a, string b) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if(a.length()>b.length()){
             while(a.length()!=b.length()){
                 b='0'+b;
