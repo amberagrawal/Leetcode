@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> findRightInterval(vector<vector<int>>& intervals) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<int>v;
         for(int i=0;i<intervals.size();i++){
             int mini=INT_MAX;
