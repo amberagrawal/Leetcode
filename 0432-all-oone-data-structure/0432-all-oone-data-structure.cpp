@@ -8,6 +8,8 @@ public:
     }
 
     void inc(string key) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         // If the key already exists, remove the old value from the set
         if (mp.count(key)) {
             valSet.erase({mp[key], key});
