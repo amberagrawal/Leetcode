@@ -21,6 +21,8 @@ public:
     }
 
     void dec(string key) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if (mp.count(key)) {
             // Remove the current value from the set
             valSet.erase({mp[key], key});
@@ -36,6 +38,8 @@ public:
     }
 
     string getMaxKey() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if (valSet.empty()) {
             return "";
         }
@@ -44,6 +48,8 @@ public:
     }
 
     string getMinKey() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         if (valSet.empty()) {
             return "";
         }
