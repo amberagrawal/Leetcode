@@ -5,7 +5,7 @@ public:
       int l=1;
       int h=1e6;
       int mid;
-      while(l<h){
+      while(l<=h){
         mid=l+(h-l)/2;
         int total=0;
         for(int i=0;i<nums.size();i++){
@@ -15,7 +15,7 @@ public:
             l=mid+1;
         }
         else{
-            h=mid;
+            h=mid-1;
         }
       }
       return l;
