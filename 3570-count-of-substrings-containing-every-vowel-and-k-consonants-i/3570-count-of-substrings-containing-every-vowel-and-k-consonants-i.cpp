@@ -1,6 +1,8 @@
 class Solution {
 public:
     int countOfSubstrings(string word, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         int count=0;
         for(int it=0;it<word.length();it++){
             int a=0;
