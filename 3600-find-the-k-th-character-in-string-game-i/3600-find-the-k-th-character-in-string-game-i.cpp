@@ -1,6 +1,8 @@
 class Solution {
 public:
     char kthCharacter(int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         string s="a";
         while(s.length()<k){
             string s1=s;
