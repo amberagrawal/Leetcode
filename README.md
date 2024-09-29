@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amberagrawal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/amberagrawal/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/amberagrawal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amberagrawal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/amberagrawal/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/amberagrawal/Leetcode/tree/master/0179-largest-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amberagrawal/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/amberagrawal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/amberagrawal/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/amberagrawal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/amberagrawal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/amberagrawal/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amberagrawal/Leetcode/tree/master/0217-contains-duplicate) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/amberagrawal/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/amberagrawal/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amberagrawal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
