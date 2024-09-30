@@ -8,10 +8,9 @@ public:
             mp[nums[i]]++;
         }
         int count=0;
-        int n=nums.size();
         for(auto i:mp){
             count=count+i.second;
-            if(count>=n+1-k){
+            if(count>=nums.size()+1-k){
                 return i.first;
             }
         }
