@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
+       ios::sync_with_stdio(false);
+       cin.tie(nullptr);
        vector<int>e;
        vector<int>o;
        for(int i=0;i<nums.size();i++){
