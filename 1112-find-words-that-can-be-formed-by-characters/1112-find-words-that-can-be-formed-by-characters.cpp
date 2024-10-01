@@ -1,6 +1,8 @@
 class Solution {
 public:
     int countCharacters(vector<string>& words, string chars) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
        map<char,int>mp1;
        int total=0;
        for(int i=0;i<chars.size();i++){
