@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<int>v1(nums.size(),1);
         vector<int>v2(nums.size(),1);
         int prod=1;
