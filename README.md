@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amberagrawal/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/amberagrawal/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1765-merge-in-between-linked-lists](https://github.com/amberagrawal/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
