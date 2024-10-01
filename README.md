@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/amberagrawal/Leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/amberagrawal/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/amberagrawal/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1765-merge-in-between-linked-lists](https://github.com/amberagrawal/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amberagrawal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/amberagrawal/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/amberagrawal/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amberagrawal/Leetcode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/amberagrawal/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/amberagrawal/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amberagrawal/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amberagrawal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/amberagrawal/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amberagrawal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/amberagrawal/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amberagrawal/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
