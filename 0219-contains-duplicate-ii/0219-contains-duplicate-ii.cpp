@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<pair<int,int>>v;
         for(int i=0;i<nums.size();i++){
             v.push_back(make_pair(nums[i],i));
