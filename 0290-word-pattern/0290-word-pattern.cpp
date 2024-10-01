@@ -40,16 +40,6 @@ public:
             mp2[pattern[i]]=s1[i];
         }
        }
-       for(auto i:mp1){
-        if(mp2[i.second]!=i.first){
-            return false;
-        }
-       }
-       for(auto i:mp2){
-        if(mp1[i.second]!=i.first){
-            return false;
-        }
-       }
        return true;
     }
 };
