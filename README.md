@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/amberagrawal/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/amberagrawal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/amberagrawal/Leetcode/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/amberagrawal/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/amberagrawal/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amberagrawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amberagrawal/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/amberagrawal/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amberagrawal/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/amberagrawal/Leetcode/tree/master/0729-my-calendar-i) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amberagrawal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amberagrawal/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/amberagrawal/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/amberagrawal/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/amberagrawal/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
