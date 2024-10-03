@@ -2,6 +2,8 @@ class NumArray {
 public:
     vector<int>v;
     NumArray(vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         v=nums;
     }
     
