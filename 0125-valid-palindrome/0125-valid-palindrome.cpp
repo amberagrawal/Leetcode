@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         string s1="";
         for(int i=0;i<s.length();i++){
             if(s[i]>='a'&&s[i]<='z'){
