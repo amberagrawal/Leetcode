@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         map<string,int>mp;
         if(s2.length()<s1.length()){
             return false;
