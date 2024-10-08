@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amberagrawal/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amberagrawal/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/amberagrawal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/amberagrawal/Leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/amberagrawal/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amberagrawal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amberagrawal/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amberagrawal/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
