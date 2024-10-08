@@ -1,22 +1,21 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int mismatch = 0, count = 0;
-        
-        // Count mismatches of ']'
-        for (char c : s) {
-            if (c == '[') {
-                mismatch++;  // '[' can balance future ']'
-            } else {
-                if (mismatch > 0) {
-                    mismatch--;  // balanced by a previous '['
-                } else {
-                    count++;  // unbalanced ']', needs a swap
+        int a=0;
+        int count=0;
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='['){
+                a++;
+            }
+            else{
+                if(a>0){
+                    a--;
+                }
+                else{
+                    count++;
                 }
             }
         }
-        
-        // Each swap fixes two mismatches
-        return (count + 1) / 2;
+        return (count+1)/2;
     }
 };
