@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& v) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         vector<pair<int, int>> events;
         for (auto &interval : v) {
             events.push_back({interval[0], 1});  
