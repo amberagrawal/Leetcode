@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amberagrawal/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/amberagrawal/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/amberagrawal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1806-count-of-matches-in-tournament](https://github.com/amberagrawal/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amberagrawal/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/amberagrawal/Leetcode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/amberagrawal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/amberagrawal/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/amberagrawal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amberagrawal/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/amberagrawal/Leetcode/tree/master/1797-goal-parser-interpretation) |
