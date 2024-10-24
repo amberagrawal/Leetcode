@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minimumSwap(string s1, string s2) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         map<char,int>mp;
         for(int i=0;i<s1.length();i++){
             mp[s1[i]]++;
