@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amberagrawal/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amberagrawal/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/amberagrawal/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amberagrawal/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/amberagrawal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/amberagrawal/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amberagrawal/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/amberagrawal/Leetcode/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/amberagrawal/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amberagrawal/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/amberagrawal/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/amberagrawal/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amberagrawal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amberagrawal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/amberagrawal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
