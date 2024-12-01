@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amberagrawal/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/amberagrawal/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/amberagrawal/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/amberagrawal/Leetcode/tree/master/1010-powerful-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/amberagrawal/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amberagrawal/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/amberagrawal/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
