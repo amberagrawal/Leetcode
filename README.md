@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amberagrawal/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amberagrawal/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amberagrawal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amberagrawal/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amberagrawal/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -796,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amberagrawal/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
