@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/amberagrawal/Leetcode/tree/master/3371-harshad-number) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/amberagrawal/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
