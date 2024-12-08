@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/amberagrawal/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/amberagrawal/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amberagrawal/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amberagrawal/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/amberagrawal/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/amberagrawal/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amberagrawal/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/amberagrawal/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/amberagrawal/Leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amberagrawal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/amberagrawal/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/amberagrawal/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/amberagrawal/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/amberagrawal/Leetcode/tree/master/1448-maximum-69-number) |
