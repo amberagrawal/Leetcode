@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/amberagrawal/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/amberagrawal/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/amberagrawal/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/amberagrawal/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
