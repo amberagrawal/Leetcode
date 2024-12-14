@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/amberagrawal/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2714-left-and-right-sum-differences](https://github.com/amberagrawal/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/amberagrawal/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amberagrawal/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/amberagrawal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/amberagrawal/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amberagrawal/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/amberagrawal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/amberagrawal/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amberagrawal/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/amberagrawal/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -839,4 +843,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amberagrawal/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
