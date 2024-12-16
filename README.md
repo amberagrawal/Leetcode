@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/amberagrawal/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amberagrawal/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amberagrawal/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amberagrawal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/amberagrawal/Leetcode/tree/master/3371-harshad-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3427-special-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/amberagrawal/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/amberagrawal/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amberagrawal/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
