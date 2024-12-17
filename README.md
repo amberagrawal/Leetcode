@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/amberagrawal/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
