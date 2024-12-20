@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/amberagrawal/Leetcode/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0924-fair-candy-swap](https://github.com/amberagrawal/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/amberagrawal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/amberagrawal/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/amberagrawal/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/amberagrawal/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/amberagrawal/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/amberagrawal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amberagrawal/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amberagrawal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/amberagrawal/Leetcode/tree/master/0778-reorganize-string) |
+| [0924-fair-candy-swap](https://github.com/amberagrawal/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/amberagrawal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/amberagrawal/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/amberagrawal/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0924-fair-candy-swap](https://github.com/amberagrawal/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amberagrawal/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
