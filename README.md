@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amberagrawal/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amberagrawal/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/amberagrawal/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/amberagrawal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/amberagrawal/Leetcode/tree/master/0412-fizz-buzz) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amberagrawal/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amberagrawal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amberagrawal/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/amberagrawal/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
