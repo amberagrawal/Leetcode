@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         map<char,int>mp;
         for(int i=0;i<s.length();i++){
             mp[s[i]]++;
