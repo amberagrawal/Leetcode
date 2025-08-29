@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amberagrawal/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/amberagrawal/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/amberagrawal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/amberagrawal/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1253-sort-the-matrix-diagonally](https://github.com/amberagrawal/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/amberagrawal/Leetcode/tree/master/0476-number-complement) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/amberagrawal/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amberagrawal/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/amberagrawal/Leetcode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amberagrawal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/amberagrawal/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amberagrawal/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
