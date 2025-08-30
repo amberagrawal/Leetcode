@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amberagrawal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amberagrawal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amberagrawal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amberagrawal/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amberagrawal/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/amberagrawal/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
