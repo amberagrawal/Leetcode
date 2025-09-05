@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/amberagrawal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/amberagrawal/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3371-harshad-number](https://github.com/amberagrawal/Leetcode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3427-special-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amberagrawal/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amberagrawal/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/amberagrawal/Leetcode/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -872,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/amberagrawal/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Depth-First Search
 |  |
