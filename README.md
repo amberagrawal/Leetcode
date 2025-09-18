@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/amberagrawal/Leetcode/tree/master/0817-design-hashmap) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amberagrawal/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/amberagrawal/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amberagrawal/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
