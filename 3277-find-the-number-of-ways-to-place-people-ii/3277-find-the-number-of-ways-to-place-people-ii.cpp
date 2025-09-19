@@ -3,7 +3,7 @@ public:
     int numberOfPairs(vector<vector<int>>& points) {
         int n = points.size();
         int ans = 0;
-        sort(points.begin(), points.end(), [](auto &a, auto &b) {
+        sort(points.begin(), points.end(), [](const vector<int> &a, const vector<int> &b) {
             if (a[0] == b[0]) return a[1] > b[1];
             return a[0] < b[0];
         });
