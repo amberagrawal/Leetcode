@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amberagrawal/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/amberagrawal/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Recursion
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/amberagrawal/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amberagrawal/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amberagrawal/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Function
 |  |
 | ------- |
