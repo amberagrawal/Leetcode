@@ -3,24 +3,20 @@ public:
     int numberOfPairs(vector<vector<int>>& points) {
         int n = points.size();
         int ans = 0;
-        for (int i = 0; i < n; i++) {        
-            for (int j = 0; j < n; j++) {      
-                if (i == j) continue;
-                int xA = points[i][0], yA = points[i][1];
-                int xB = points[j][0], yB = points[j][1];
-                if (xA > xB || yA < yB) continue;
-                bool ok = true;
-                for (int k = 0; k < n; k++) {   
-                    if (k == i || k == j) continue;
-                    int x = points[k][0], y = points[k][1];
-                    if (xA <= x && x <= xB && yB <= y && y <= yA) {
-                        ok = false; 
-                        break;
-                    }
+        sort(points.begin(), points.end(), [](auto &a, auto &b) {
+            if (a[0] == b[0]) return a[1] > b[1];
+            return a[0] < b[0];
+        });
+        for (int i = 0; i < n; i++) {
+            int m= INT_MIN;
+            for (int j = i + 1; j < n; j++) {
+                if (points[i][1] >= points[j][1] && points[j][1] > m) {
+                    ans++;
+                    m = points[j][1];
                 }
-                if (ok) ans++;
             }
         }
+
         return ans;
     }
 };
