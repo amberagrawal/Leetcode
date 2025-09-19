@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/amberagrawal/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/amberagrawal/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
