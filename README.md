@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/amberagrawal/Leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amberagrawal/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/amberagrawal/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/amberagrawal/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/amberagrawal/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/amberagrawal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amberagrawal/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amberagrawal/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/amberagrawal/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amberagrawal/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
