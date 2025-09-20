@@ -20,7 +20,7 @@ public:
             res.push({act,i+d});
             frg.push({act,i+f});
             }
-            cout<<act+res.size()<<" ";
+            //cout<<act+res.size()<<" ";
         }
         while(!res.empty()){
             act=(act+res.front().first)%mod;
