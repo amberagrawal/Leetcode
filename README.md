@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/amberagrawal/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amberagrawal/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amberagrawal/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amberagrawal/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/amberagrawal/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/amberagrawal/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amberagrawal/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amberagrawal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amberagrawal/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amberagrawal/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amberagrawal/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/amberagrawal/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
