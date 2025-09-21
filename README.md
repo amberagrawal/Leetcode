@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/amberagrawal/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/amberagrawal/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/amberagrawal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/amberagrawal/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1253-sort-the-matrix-diagonally](https://github.com/amberagrawal/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/amberagrawal/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/amberagrawal/Leetcode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/amberagrawal/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amberagrawal/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amberagrawal/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1000,4 +1002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/amberagrawal/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
