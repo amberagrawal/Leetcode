@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/amberagrawal/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1806-count-of-matches-in-tournament](https://github.com/amberagrawal/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amberagrawal/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/amberagrawal/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/amberagrawal/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/amberagrawal/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amberagrawal/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amberagrawal/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amberagrawal/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/amberagrawal/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amberagrawal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amberagrawal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/amberagrawal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amberagrawal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/amberagrawal/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/amberagrawal/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amberagrawal/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -781,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/amberagrawal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1612-avoid-flood-in-the-city](https://github.com/amberagrawal/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/amberagrawal/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/amberagrawal/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/amberagrawal/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amberagrawal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
