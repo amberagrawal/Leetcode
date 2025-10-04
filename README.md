@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amberagrawal/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amberagrawal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/amberagrawal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amberagrawal/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amberagrawal/Leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/amberagrawal/Leetcode/tree/master/0036-valid-sudoku) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amberagrawal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/amberagrawal/Leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/amberagrawal/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/amberagrawal/Leetcode/tree/master/0402-remove-k-digits) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amberagrawal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amberagrawal/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amberagrawal/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amberagrawal/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
