@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amberagrawal/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amberagrawal/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/amberagrawal/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amberagrawal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2571-find-the-pivot-integer](https://github.com/amberagrawal/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/amberagrawal/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amberagrawal/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/3427-special-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amberagrawal/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
