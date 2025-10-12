@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amberagrawal/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amberagrawal/Leetcode/tree/master/3827-implement-router) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/amberagrawal/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/amberagrawal/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amberagrawal/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/amberagrawal/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/amberagrawal/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/amberagrawal/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/amberagrawal/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/amberagrawal/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Tree
 |  |
 | ------- |
