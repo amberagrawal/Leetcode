@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amberagrawal/Leetcode/tree/master/3827-implement-router) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/amberagrawal/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
+| [4000-count-bowl-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/4000-count-bowl-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amberagrawal/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amberagrawal/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amberagrawal/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [4000-count-bowl-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/4000-count-bowl-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amberagrawal/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amberagrawal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/amberagrawal/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [4000-count-bowl-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/4000-count-bowl-subarrays) |
 ## Backtracking
 |  |
 | ------- |
