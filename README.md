@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amberagrawal/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/amberagrawal/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amberagrawal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amberagrawal/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1610-xor-operation-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/amberagrawal/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/2402-maximum-xor-after-operations) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [1010-powerful-integers](https://github.com/amberagrawal/Leetcode/tree/master/1010-powerful-integers) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/amberagrawal/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amberagrawal/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/amberagrawal/Leetcode/tree/master/0037-sudoku-solver) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
