@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/amberagrawal/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/amberagrawal/Leetcode/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/amberagrawal/Leetcode/tree/master/0890-lemonade-change) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0921-spiral-matrix-iii](https://github.com/amberagrawal/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/amberagrawal/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0947-online-election](https://github.com/amberagrawal/Leetcode/tree/master/0947-online-election) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/amberagrawal/Leetcode/tree/master/0476-number-complement) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/amberagrawal/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amberagrawal/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/amberagrawal/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amberagrawal/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
