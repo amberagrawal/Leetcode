@@ -885,14 +885,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amberagrawal/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amberagrawal/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amberagrawal/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amberagrawal/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/amberagrawal/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amberagrawal/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amberagrawal/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Radix Sort
 |  |
 | ------- |
