@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/amberagrawal/Leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amberagrawal/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/amberagrawal/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amberagrawal/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/amberagrawal/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/amberagrawal/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/amberagrawal/Leetcode/tree/master/3194-find-words-containing-character) |
