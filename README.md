@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/amberagrawal/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amberagrawal/Leetcode/tree/master/3827-implement-router) |
+| [3889-mirror-frequency-distance](https://github.com/amberagrawal/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3889-mirror-frequency-distance](https://github.com/amberagrawal/Leetcode/tree/master/3889-mirror-frequency-distance) |
 | [3999-minimum-operations-to-transform-string](https://github.com/amberagrawal/Leetcode/tree/master/3999-minimum-operations-to-transform-string) |
 ## Greedy
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/amberagrawal/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3889-mirror-frequency-distance](https://github.com/amberagrawal/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Sliding Window
 |  |
 | ------- |
