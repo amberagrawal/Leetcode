@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amberagrawal/Leetcode/tree/master/3827-implement-router) |
 | [3889-mirror-frequency-distance](https://github.com/amberagrawal/Leetcode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/amberagrawal/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Recursion
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amberagrawal/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amberagrawal/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/amberagrawal/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
 | ------- |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3889-mirror-frequency-distance](https://github.com/amberagrawal/Leetcode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/amberagrawal/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amberagrawal/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amberagrawal/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/amberagrawal/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Depth-First Search
 |  |
 | ------- |
