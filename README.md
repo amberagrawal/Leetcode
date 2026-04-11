@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amberagrawal/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/amberagrawal/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amberagrawal/Leetcode/tree/master/3827-implement-router) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/amberagrawal/Leetcode/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/amberagrawal/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4000-count-bowl-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/4000-count-bowl-subarrays) |
 ## Hash Table
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/amberagrawal/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3195-separate-black-and-white-balls](https://github.com/amberagrawal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/amberagrawal/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/amberagrawal/Leetcode/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3999-minimum-operations-to-transform-string](https://github.com/amberagrawal/Leetcode/tree/master/3999-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/3427-special-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amberagrawal/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amberagrawal/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/amberagrawal/Leetcode/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amberagrawal/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/amberagrawal/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/amberagrawal/Leetcode/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Game Theory
 |  |
 | ------- |
