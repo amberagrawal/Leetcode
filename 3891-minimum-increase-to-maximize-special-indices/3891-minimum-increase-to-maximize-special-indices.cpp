@@ -13,10 +13,8 @@ public:
 
         long long ans;
 
-        // take
         ans = cost + solve(i + 2, skipped, nums);
 
-        // skip (only once)
         if (skipped == 0) {
             ans = min(ans, solve(i + 1, 1, nums));
         }
@@ -26,8 +24,6 @@ public:
 
     long long minIncrease(vector<int>& nums) {
         n = nums.size();
-
-        // ODD case (same as yours)
         if (n % 2 != 0) {
             long long total = 0;
             for (int i = 1; i < n - 1; i += 2) {
