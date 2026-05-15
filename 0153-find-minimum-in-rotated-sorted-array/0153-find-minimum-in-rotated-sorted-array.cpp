@@ -8,11 +8,8 @@ public:
             if(nums[mid]>nums[j]){
                 i=mid+1;
             }
-            else if(nums[i]>nums[mid]){
-                i++;
-            }
             else{
-                j=mid-1;
+                j=mid;
             }
         }
         return nums[i];
