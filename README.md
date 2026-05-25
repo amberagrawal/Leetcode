@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amberagrawal/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amberagrawal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/amberagrawal/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1871-jump-game-vii](https://github.com/amberagrawal/Leetcode/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amberagrawal/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/amberagrawal/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amberagrawal/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/amberagrawal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amberagrawal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/amberagrawal/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1871-jump-game-vii](https://github.com/amberagrawal/Leetcode/tree/master/1871-jump-game-vii) |
 | [2868-continuous-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amberagrawal/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amberagrawal/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/amberagrawal/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1871-jump-game-vii](https://github.com/amberagrawal/Leetcode/tree/master/1871-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amberagrawal/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/amberagrawal/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amberagrawal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amberagrawal/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1362-airplane-seat-assignment-probability](https://github.com/amberagrawal/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1871-jump-game-vii](https://github.com/amberagrawal/Leetcode/tree/master/1871-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/amberagrawal/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/amberagrawal/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
