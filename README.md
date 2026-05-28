@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amberagrawal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/amberagrawal/Leetcode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/amberagrawal/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
