@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/amberagrawal/Leetcode/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/amberagrawal/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/amberagrawal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/amberagrawal/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/amberagrawal/Leetcode/tree/master/0506-relative-ranks) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amberagrawal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
 | [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/amberagrawal/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/amberagrawal/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amberagrawal/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/amberagrawal/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/amberagrawal/Leetcode/tree/master/0518-coin-change-ii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/amberagrawal/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -1130,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amberagrawal/Leetcode/tree/master/0037-sudoku-solver) |
+| [0473-matchsticks-to-square](https://github.com/amberagrawal/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1022-unique-paths-iii](https://github.com/amberagrawal/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amberagrawal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1165,4 +1169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/amberagrawal/Leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
