@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/amberagrawal/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amberagrawal/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/amberagrawal/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [0492-construct-the-rectangle](https://github.com/amberagrawal/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/amberagrawal/Leetcode/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/amberagrawal/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amberagrawal/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/amberagrawal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/amberagrawal/Leetcode/tree/master/0389-find-the-difference) |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/amberagrawal/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amberagrawal/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [0518-coin-change-ii](https://github.com/amberagrawal/Leetcode/tree/master/0518-coin-change-ii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/amberagrawal/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/amberagrawal/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amberagrawal/Leetcode/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [0828-chalkboard-xor-game](https://github.com/amberagrawal/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/amberagrawal/Leetcode/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/amberagrawal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1148,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
 |  |
@@ -1156,4 +1161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/amberagrawal/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/amberagrawal/Leetcode/tree/master/1036-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/amberagrawal/Leetcode/tree/master/1306-jump-game-iii) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
