@@ -1,0 +1,196 @@
+class Solution {
+public:
+    bool stoneGameIX(vector<int>& arr) {
+        map<int,int>mp;
+        map<int,int>mp1;
+        for(int i=0;i<arr.size();i++){
+            mp[arr[i]%3]++;
+            mp1[arr[i]%3]++;
+        }
+        int curr=1;
+        int win=0;
+        int f=0;
+        bool check=false;
+        while(true){
+            if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+            if(mp[curr]>0){
+                mp[curr]--;
+                if(f==0){
+                    f++;
+                }
+                else{
+                curr=(curr+curr)%3;
+                }
+                if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+                }
+            }
+            else if(mp[0]>0){
+                if(f==0){
+                    curr=0;
+                }
+                mp[0]--;
+            }
+            else{
+                if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+                }
+                win=2;
+                break;
+            }
+            if(curr%3==0){
+                if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+                win=2;
+                break;
+            }
+            if(mp[curr]>0){
+                mp[curr]--;
+                if(f==0){
+                    f++;
+                }
+                else{
+                curr=(curr+curr)%3;
+                }
+            }
+            else if(mp[0]>0){
+                mp[0]--;
+            }
+            else{
+                if(mp[2]==0&&mp[1]==0){
+                    if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+                    win=2;
+                    break;
+                }
+                if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+                win=1;
+                break;
+            }
+            if(curr%3==0){
+                if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+                win=1;
+                break;
+            }
+            if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                break;
+            }
+        }
+        if(win==1){
+            if(mp[0]==0&&mp[1]==0&&mp[2]==0){
+                win=2;
+                cout<<1;
+                
+            }
+            else{
+            cout<<2;
+            check=true;
+            return true;
+            }
+        }
+        curr=2;
+        win=0;
+        f=0;
+        while(true){
+            if(mp1[curr]>0){
+                mp1[curr]--;
+                if(f==0){
+                    f++;
+                }
+                else{
+                curr=(curr+curr)%3;
+                }
+            }
+            else if(mp1[0]>0){
+                if(f==0){
+                    curr=0;
+                }
+                mp1[0]--;
+            }
+            else{
+                if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+                win=2;
+                break;
+            }
+            if(curr%3==0){
+                if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+                win=2;
+                break;
+            }
+            if(mp1[curr]>0){
+                mp1[curr]--;
+                if(f==0){
+                    f++;
+                }
+                else{
+                curr=(curr+curr)%3;
+                }
+            }
+            else if(mp1[0]>0){
+                mp1[0]--;
+            }
+            else{
+                if(mp1[2]==0&&mp1[1]==0){
+                    if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+                    win=2;
+                    break;
+                }
+                if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+                win=1;
+                break;
+            }
+            if(curr%3==0){
+                if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+                win=1;
+                break;
+            }
+            if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                break;
+            }
+        }
+        if(win==1){
+            if(mp1[0]==0&&mp1[1]==0&&mp1[2]==0){
+                win=2;
+                cout<<3;
+                return check|false;
+            }
+            cout<<4;
+            check=true;
+            return true;
+        }
+        cout<<5;
+        return check|false;
+    }
+};
