@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amberagrawal/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amberagrawal/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amberagrawal/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/amberagrawal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amberagrawal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amberagrawal/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/amberagrawal/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amberagrawal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amberagrawal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/amberagrawal/Leetcode/tree/master/0464-can-i-win) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amberagrawal/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
