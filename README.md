@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amberagrawal/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/amberagrawal/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/amberagrawal/Leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/amberagrawal/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/amberagrawal/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/amberagrawal/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amberagrawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amberagrawal/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/amberagrawal/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/amberagrawal/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/amberagrawal/Leetcode/tree/master/0392-is-subsequence) |
